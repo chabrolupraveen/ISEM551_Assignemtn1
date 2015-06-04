@@ -1,0 +1,35 @@
+html,
+body{
+	background-color: #333;
+	padding-top:25px;
+	padding-bottom:20px;
+}
+
+html{
+	min-height:100%;
+	font-color:#fff;
+}
+
+.navbar{
+	background-color: #EA8C10;
+}
+
+.main-content{
+	color:white;
+	padding-left:15px;
+	padding-right:15px;
+}
+
+.about-me-container{
+	margin-top:5px;
+}
+
+.about-me-container > .well{
+	background-color: turquoise;
+}
+.assignment-container{
+	margin-top:5px;
+}
+.assignment-container> .well{
+	background-color: yellow;
+}
